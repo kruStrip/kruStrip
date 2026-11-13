@@ -2,7 +2,8 @@
 
 **Специалист по автоматизации бизнеса** · Санкт-Петербург
 
-Собираю системы, которые убирают ручную работу. Работаю с бизнесом напрямую — от постановки задачи до запуска и поддержки.
+Собираю системы, которые убирают ручную работу. 
+Работаю с бизнесом напрямую — от постановки задачи до запуска и поддержки.
 
 [![Сайт](https://img.shields.io/badge/Портфолио-kotelnikova--ek.ru-1f6feb?style=flat-square)](https://kotelnikova-ek.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-@Strippizdek-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Strippizdek)
