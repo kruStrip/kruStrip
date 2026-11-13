@@ -2,7 +2,7 @@
 
 **Специалист по автоматизации бизнеса** · Санкт-Петербург
 
-Собираю системы, которые убирают ручную работу: Telegram-боты и Mini Apps, интеграции с amoCRM и YClients, оплата и доставка, сайты и внутренние сервисы. Работаю с бизнесом напрямую — от постановки задачи до запуска и поддержки.
+Собираю системы, которые убирают ручную работу. Работаю с бизнесом напрямую — от постановки задачи до запуска и поддержки.
 
 [![Сайт](https://img.shields.io/badge/Портфолио-kotelnikova--ek.ru-1f6feb?style=flat-square)](https://kotelnikova-ek.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-@Strippizdek-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Strippizdek)
@@ -11,10 +11,10 @@
 
 ### Что я делаю
 
-- **Боты и Mini Apps** — запись, оплата, личные кабинеты, уведомления
-- **Интеграции** — amoCRM, YClients, Ozon Pay, Т-Банк, Почта России, WhatsApp, ВКонтакте
-- **Сайты и сервисы** — Astro, React, C#, PostgreSQL
-- **Внутренние инструменты** — отчётность, автоматизация процессов, документооборот
+- **Боты и Mini Apps**
+- **Интеграции** — crm, соц.сети, платежные системы и т.д.
+- **Сайты и сервисы**
+- **Внутренние инструменты** 
 
 ### Избранные проекты
 
@@ -39,8 +39,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-В закреплённых репозиториях — практика по базам данных, Angular/React и ASP.NET.
 
 ---
 
