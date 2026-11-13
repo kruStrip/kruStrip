@@ -21,18 +21,19 @@
 - **Сайты и лендинги**
 - **Магазины в Telegram Mini App**
 
-### Избранные проекты
+### Несколько моих проектов
 
-| Проект | Что это | Стек |
-| --- | --- | --- |
-| [Учим Химию](https://kotelnikova-ek.ru/cases/uchim-himiyu) | Чат-бот и Mini App для онлайн-школы: оплата, доступ к урокам, уведомления | Telegram, React, PostgreSQL |
-| [ВосА](https://kotelnikova-ek.ru/cases/vosa) | Запись и оплата для сети квестов | amoCRM, Telegram |
-| [Бранчес](https://kotelnikova-ek.ru/cases/branches) | Кейтеринг: заказы, доставка, оплата | YClients, Telegram |
-| [МузЛото](https://kotelnikova-ek.ru/cases/muzloto) | Квизы и развлечения: брони, оплата, рассылки | Telegram Mini Apps |
-| [ФИНФОРМЫ](https://kotelnikova-ek.ru/cases/fin-otchetnost) | Конструктор форм управленческой отчётности | TypeScript, React |
-| [Таплинки](https://kotelnikova-ek.ru/cases/taplinki) | Мини-сайты-визитки с аналитикой переходов | Astro, React |
+Все проекты можно посмотреть на сайте: [kotelnikova-ek.ru](https://kotelnikova-ek.ru/).
 
-Полные разборы — с задачами, архитектурой и результатами — на [kotelnikova-ek.ru](https://kotelnikova-ek.ru/).
+| Проект | Что это | 
+| --- | --- | 
+| [Учим Химию](https://kotelnikova-ek.ru/cases/uchim-himiyu) | Чат-бот и Mini App для продажи курсов онлайн-школы | 
+| [ВосА](https://kotelnikova-ek.ru/cases/vosa) | Календарь бронирования |
+| [Бранчес](https://kotelnikova-ek.ru/cases/branches) | Mini App для кейтеринговой компании | 
+| [МузЛото](https://kotelnikova-ek.ru/cases/muzloto) | Система продажи билетов на квизы |
+| [ФИНФОРМЫ](https://kotelnikova-ek.ru/cases/fin-otchetnost) | Конструктор форм управленческой отчётности | 
+| [Таплинки](https://kotelnikova-ek.ru/cases/taplinki) | Мини-сайты-визитки с аналитикой переходов | 
+
 
 ### Стек
 
@@ -48,4 +49,3 @@
 ---
 
 Сайт с кейсами: **[kotelnikova-ek.ru](https://kotelnikova-ek.ru/)** · Связаться: [@Strippizdek](https://t.me/Strippizdek)
-
